@@ -44,7 +44,7 @@ object Functions extends App{
   val l = List(1,2,3)
   sum(l : _*)
 
-  // SankarS
+  // SankarS11
   // Parameter Groups
   def sum1(x: Int, y: Int)(z: String) = {
     println(z)
